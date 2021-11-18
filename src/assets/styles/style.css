@@ -734,4 +734,10 @@ select {
 
 .light .refer__cont .table li span {
   color: #000;
+}
+
+.container {
+  width: 1400px;
+  margin: 0 auto;
+  position: relative;
 }/*# sourceMappingURL=style.css.map */
